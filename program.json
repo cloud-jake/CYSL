@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Program_Season",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Season Code"
+  },
+  {
+    "name": "Program_BirthYear",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "BirthYear"
+  },
+  {
+    "name": "Program_Code",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Program Code"
+  }
+]

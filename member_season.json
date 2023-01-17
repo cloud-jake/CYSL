@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Season_USSA",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "USSA Number"
+  },
+  {
+    "name": "Season_Code",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Season Code"
+  },
+  {
+    "name": "Season_Team",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Team Code"
+  },
+  {
+    "name": "Season_Program",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Program / Age Group"
+  },
+  {
+    "name": "Season_Bib",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Bib Number"
+  }
+]
