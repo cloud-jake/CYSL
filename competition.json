@@ -1,16 +1,16 @@
 [
     {
-        "name": "Competition_Code",
-        "type": "STRING",
-        "mode": "REQUIRED",
-        "description": "Unique Competition Code KEY"
-    },
-    {
         "name": "Competition_Season",
         "type": "STRING",
         "mode": "REQUIRED",
         "description": "Competition Season"
     },
+    {
+        "name": "Competition_Code",
+        "type": "STRING",
+        "mode": "REQUIRED",
+        "description": "Unique Competition Code KEY"
+    }, 
     {
       "name": "Competition_Name",
       "type": "STRING",
