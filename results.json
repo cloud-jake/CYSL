@@ -1,22 +1,16 @@
 [
-    {       
-        "name": "Results_MemberNumber",
-        "type": "STRING",
-        "mode": "REQUIRED",
-        "description": "USSA Number of Racer"
-    },
-    {
-        "name": "Results_Competition_Code",
-        "type": "STRING",
-        "mode": "REQUIRED",
-        "description": "Unique Competition Code KEY"
-    },
     {
         "name": "Results_Season",
         "type": "STRING",
         "mode": "REQUIRED",
         "description": "Competition Season"
     }, 
+    {
+        "name": "Results_Competition_Code",
+        "type": "STRING",
+        "mode": "REQUIRED",
+        "description": "Unique Competition Code KEY"
+    },
     {
       "name": "Results_Finish",
       "type": "STRING",
@@ -28,6 +22,12 @@
       "type": "STRING",
       "mode": "NULLABLE",
       "description": "Full Name"
+    },
+    {       
+        "name": "Results_MemberNumber",
+        "type": "STRING",
+        "mode": "REQUIRED",
+        "description": "USSA Number of Racer"
     },
     {
         "name": "Results_BirthYear",
